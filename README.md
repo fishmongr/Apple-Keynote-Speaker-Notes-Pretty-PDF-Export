@@ -1,6 +1,6 @@
 # Custom Keynote PDF Export
 
-This repo's tools allow you to have complete control over the design of Keynote PDF export with speaker notes. The default template will allow you to easily generate a nicely formatted PDF with full-width slide at top of each page and full-width presenter notes below it as nicely formatted bulleted points. Once you're familiar you can run this script and generate nice looking PDFs in under 5 minutes. See this example: [a link](example/AI-sept2017.pdf)
+This repo's tools allow you to have complete control over the design of Keynote PDF export with speaker notes. The default template will allow you to easily generate a nicely formatted PDF with full-width slide at top of each page and full-width presenter notes below it as nicely formatted bulleted points. Once you're familiar you can run this script and generate nice looking PDFs in under 5 minutes. See this example of an: [exported PDF](example/AI-sept2017.pdf)
 
 ### Prerequisites
 
@@ -35,8 +35,8 @@ Another error that may pop up is regarding missing images. This means you didn't
 
 **Other tips:**
 
-The formatting of bullet points are done through a bit of an Indesign hack as described here with custom Paragraph Style options that you can tweak further:  
-[a link](https://indesignsecrets.com/controlling-line-breaks-with-data-merge.php)  
+The formatting of bullet points are done through a bit of an Indesign hack as described [here](https://indesignsecrets.com/controlling-line-breaks-with-data-merge.php) with custom Paragraph Style options that you can tweak further.
+
 
 
 
